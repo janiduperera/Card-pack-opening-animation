@@ -4,4 +4,9 @@
 
 **TO DO**
 
-- Need to work in smoothness. 
+- Sometimes clicking on cards gets hanged. 
+  Need to work on smoothing that more.  
+
+**Important**
+
+- Need Git LFS to clone. 
